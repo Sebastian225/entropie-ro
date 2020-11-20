@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605460408 source:d:\fac\arhsistcalcul\entropia_lb_ro\entropia_full_cuvinte_map\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+	<map>
+

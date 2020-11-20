@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605464076 source:d:\fac\arhsistcalcul\entropia_lb_ro\entropia_full\entropia_full\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+	<string>
+	<algorithm>
+	<map>
+
